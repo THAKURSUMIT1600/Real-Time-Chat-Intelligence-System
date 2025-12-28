@@ -1,0 +1,26 @@
+# Core Backend
+Flask==3.0.0
+flask-socketio==5.3.5
+python-socketio==5.10.0
+simple-websocket>=1.0.0
+
+# ML and NLP
+transformers==4.47.0
+torch>=2.6.0
+spacy>=3.8.0
+scikit-learn>=1.6.0
+numpy
+pandas
+
+# Database
+Flask-SQLAlchemy==3.1.1
+psycopg[binary]>=3.1.0
+
+# Utilities
+python-dotenv==1.0.0
+flask-cors==4.0.0
+flask-limiter==3.5.0
+
+# Optional: Model optimization
+# onnxruntime==1.16.3
+# optimum==1.16.0
