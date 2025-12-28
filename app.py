@@ -282,7 +282,7 @@ def init_app():
 if __name__ == '__main__':
     # Initialize app
     init_app()
-     import os
+    import os
     port = int(os.environ.get('PORT', 5000))
     # Run with SocketIO
     logger.info("🚀 Starting Chat Intelligence System...")
