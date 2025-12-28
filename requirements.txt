@@ -21,8 +21,6 @@ python-dotenv==1.0.0
 flask-cors==4.0.0
 flask-limiter==3.5.0
 gunicorn==21.2.0
-gevent==23.9.1
-gevent-websocket==0.10.1
 
 # Optional: Model optimization
 # onnxruntime==1.16.3
